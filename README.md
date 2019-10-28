@@ -8,3 +8,5 @@ https://pastebin.com/EXMDeFG7
 * C++
 * Visuaal Studio
 * SFML
+# План обучения
+[План обучения](https://docs.google.com/document/d/1IzXiKh_FO1afZLA-dQXbpnA65jp537-qlWY9tycdYG4/edit)
